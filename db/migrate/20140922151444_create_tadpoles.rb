@@ -10,5 +10,5 @@ class CreateTadpoles < ActiveRecord::Migration
       t.timestamps
     end
   end
-  
+
 end
